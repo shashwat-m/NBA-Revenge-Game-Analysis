@@ -1,7 +1,6 @@
 # Sweet, Sweet Revenge: NBA Revenge Game Analysis
 
 **Maggie Chen, Emily Hebert, Jade Lightfoot, Shashwat Mishra**  
-SDS 375 - Sports Analytics
 
 ---
 
