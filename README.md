@@ -49,8 +49,8 @@ Individual players like Donovan Mitchell and Kyrie Irving showed scoring spikes 
 
 ## Read More
 
-- Full written report: [`report/Final_Project_Written_Report.pdf`](report/Final_Project_Written_Report.pdf)
-- Presentation slides: [`report/Sports_Analytics_Presentation.pdf`](report/Sports_Analytics_Presentation.pdf)
+- Full written report: [`Final_Project_Written_Report.pdf`](Final_Project_Written_Report.pdf)
+- Presentation slides: [`Sports_Analytics_Presentation.pdf`](Sports_Analytics_Presentation.pdf)
 
 ---
 
